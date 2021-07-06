@@ -25,13 +25,7 @@ Conclusion :
 6. Only 6 times team wins the world cup while hosting the tournament which means that there are more pressure on hosts and there are less chances to win world cup while hosting.
 7. In world cup history only 9 unique teams wins the world cup.
 8. Goals scored per year ratio is increasing.
-   
+
+Result :
 From above points we conclude that if Brazil or Italy qualifies for world cup final then brazil have 71.42% chance of winning the world cup and Italy have 66.66% chance of winning the world cup.
 Hosting country have only 30% chance of winning the world cup.
-
-Steps for Conclusion : 
-•	Find which countries are qualified more number of times for finals.
-•	Get results of which country wins finals more number of times.
-•	For calculating the chances of winning final by that country we used above two steps.
-•	Find how many times the host country wins the world cup.
-•	By using above step get chance of host country to win the world cup.
