@@ -1,6 +1,7 @@
-**Project** : Fifa World Cup Winners Analysis.
+**Project** : **Fifa World Cup Winners Analysis.
+**
+**Work Done** :
 
-Work Done :
 •	By using conditions and value counts get which country is best in world cup and in 90’s era and plot graph of that.
 •	   By using scatter plot get which country wins the world cup at which year.
 •	   Get information about which country host world cup more number of times.
@@ -9,14 +10,16 @@ Work Done :
 •	Get information chances of host country winning the world cup.
 
 
-Choose this project to find out following information :
+**Choose this project to find out following information **:
+
 •	Find the best team in world cup.
 •	Find the best team in 90’s era.
 •	Which country host the most world cups.
 •	Find the  chances of winning world cup by host country. 
 •	Which country is dominating in last 20 years in world cup.
 
-Conclusion :
+**Conclusion** :
+
 1. Brazil is the best team of all time in world cup.
 2. Brazil is the best team in 90's era.
 3. Brazil wins world cup 5 times and runner up 2 times.
@@ -26,6 +29,7 @@ Conclusion :
 7. In world cup history only 9 unique teams wins the world cup.
 8. Goals scored per year ratio is increasing.
 
-Result :
+**Result** :
+
 From above points we conclude that if Brazil or Italy qualifies for world cup final then brazil have 71.42% chance of winning the world cup and Italy have 66.66% chance of winning the world cup.
 Hosting country have only 30% chance of winning the world cup.
