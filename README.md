@@ -1,10 +1,10 @@
-**Project** : **Fifa World Cup Winners Analysis.**
+**Project** : **Fifa World Cup Winners Analysis (Web Scrapping).**
 
 **Work Done** :
 
 •	By using conditions and value counts get which country is best in world cup and in 90’s era and plot graph of that.
-•	   By using scatter plot get which country wins the world cup at which year.
-•	   Get information about which country host world cup more number of times.
+•	By using scatter plot get which country wins the world cup at which year.
+•	Get information about which country host world cup more number of times.
 •	Get information about average goals per year in world cup is increasing or not.
 •	Get information about which country have more chances of winning the world cup.
 •	Get information chances of host country winning the world cup.
